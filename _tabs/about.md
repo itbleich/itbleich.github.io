@@ -10,5 +10,4 @@ My current research focuses on the neural and behavioral mechanisms underlying c
 
 Using body and head kinematic monitoring, carefully controlled visual stimuli, and neurophysiological recordings, I investigate how sensory information is transformed into adaptive behavior. I also have experience working with rodent model systems.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
