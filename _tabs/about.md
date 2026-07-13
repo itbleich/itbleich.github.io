@@ -4,7 +4,7 @@ icon: fas fa-user
 order: 1
 ---
 
-<img src="/assets/img/Itay_head_photo.jpeg"
+<img src="/assets/Itay_head_photo.jpeg"
      alt="Itay Bleichman"
      width="250"
      style="float:right; margin:0 0 20px 30px; border-radius:12px;">
