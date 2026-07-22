@@ -13,7 +13,7 @@ This section presents perspectives and practical insights drawn from my research
 
 ## Metadata: The Most Important Thing You'll Ever Save
 
-One of the most valuable lessons I've learned is that good metadata can determine whether a dataset remains useful or becomes impossible to interpret. Here I share the workflows and practices that I apply for making experiments as metadata-proof as possible.
+One of the most valuable lessons I've learned is that good metadata can determine whether a dataset remains useful or becomes impossible to interpret. Here I share the workflows and practices I use to make my experiments as metadata-proof as possible.
 
 → [Read more](/research/metadata)
 
