@@ -6,13 +6,14 @@ order: 4
 
 # Research & Insights
 
-This section contains practical notes, methodological insights, and perspectives from my research in neuroethology, quantitative behavior, and experimental neuroscience.
+This section presents perspectives and practical insights drawn from my research, which I hope will also be useful to others...
+
 
 ---
 
 ## Metadata: The Most Important Thing You'll Ever Save
 
-Good metadata can be the difference between a dataset that remains useful for years and one that becomes impossible to interpret. This article discusses practical strategies for organizing experiments and ensuring long-term reproducibility.
+One of the most valuable lessons I've learned is that good metadata can determine whether a dataset remains useful or becomes impossible to interpret. Here I share the workflows and practices that I apply for making experiments as metadata-proof as possible.
 
 → [Read more](/research/metadata)
 
