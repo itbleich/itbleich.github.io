@@ -1,4 +1,3 @@
-
 ---
 title: Research & Insights
 icon: fas fa-user
