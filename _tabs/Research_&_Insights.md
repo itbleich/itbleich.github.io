@@ -2,7 +2,7 @@
 ---
 title: Research & Insights
 icon: fas fa-lightbulb
-order: 3
+order: 4
 ---
 
 # Research & Insights
