@@ -1,7 +1,7 @@
 
 ---
 title: Research & Insights
-icon: fas fa-lightbulb
+icon: fas fa-user
 order: 4
 ---
 
