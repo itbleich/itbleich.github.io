@@ -1,5 +1,12 @@
+---
+layout: page
+title: Metadata: The Most Important Thing You'll Ever Save
+published: false
+---
 
+# Metadata: The Most Important Thing You'll Ever Save
 
-Metadata-Proofing Your Experiments
+...
+
 
 Content under development. Please come back soon....
