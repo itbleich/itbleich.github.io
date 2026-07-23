@@ -4,7 +4,6 @@ icon: fas fa-user
 order: 4
 ---
 
-# Research & Insights
 
 This section presents perspectives and practical insights drawn from my research, which I hope will also be useful to others...
 
