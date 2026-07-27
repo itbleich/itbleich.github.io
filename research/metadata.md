@@ -4,16 +4,16 @@ title: Metadata- The Most Important Thing You'll Ever Save
 published: false
 ---
 
-## How to make sure no experimental data point is lost ##
+# How to make sure no experimental data point is lost #
 
-### 1. Redundant Metadata Collection - The more, the merrier. ###
-### 2. Embedding - Make your metadata inseparable from your data. ###
+** 1. Redundant Metadata Collection - The more, the merrier. **
+** 2. Embedding - Make your metadata inseparable from your data. **
               
 
 Information about your experimental data, your metadata, can be more valuable than the data themselves. 
 This page presents the workflow I use to make my experiments as metadata-proof as possible.
 
-What is metadata?
+## What is metadata? ##
 Metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. One of the most frustrating reasons preventing from trials to become real data points is when everything works perfectly, but during analysis you discover that you can't related the data to a specific experimental setting. The single experimental data is there but it has lost the context that gives it meaning. 
 After dealing with numerous metadata-related issues throughout my research, these are the principles I follow to metadata-proof my experiments.
 
@@ -21,11 +21,11 @@ After dealing with numerous metadata-related issues throughout my research, thes
 2.	Embedding - Whenever possible, incorporate essential experimental metadata directly into the raw data itself. 
 
 
-**Redundancy**
+## Redundancy##
 
- **All metadata fail. They rarely fail all at once.** 
+ ### All metadata fail. They rarely fail all at once.### 
 
- **There is no such thing as metadata over-registration.**
+ ### There is no such thing as metadata over-registration.###
 
 The more independent ways your metadata are recorded, the better. No logging method is completely failure-proof, so critical information should never rely on a single source. Redundancy not only protects against data loss but also allows cross-checking, and synchronization between different systems (i.e. different devices involved in the same experiment).
 
