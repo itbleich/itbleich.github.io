@@ -7,6 +7,7 @@ published: false
 # How to make sure no experimental data point is lost #
 
 ** 1. Redundant Metadata Collection - The more, the merrier. **
+
 ** 2. Embedding - Make your metadata inseparable from your data. **
               
 
