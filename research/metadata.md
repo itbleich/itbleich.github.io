@@ -4,11 +4,11 @@ title: Metadata- The Most Important Thing You'll Ever Save
 published: false
 ---
 
-> ### Key takeaway
->
-> **All metadata fail. They rarely fail all at once.**
->
-> Build your experiments so that every critical piece of metadata exists in multiple independent forms.
+### Key takeaway
+
+ **All metadata fail. They rarely fail all at once.**
+
+Build your experiments so that every critical piece of metadata exists in multiple independent forms.
 
 Information about your experimental data, your metadata, can be more valuable than the data themselves. This page presents the workflow I use to make my experiments as metadata-proof as possible.
 
