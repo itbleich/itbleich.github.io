@@ -10,7 +10,8 @@ published: false
 
 Build your experiments so that every critical piece of metadata exists in multiple independent forms.
 
-Information about your experimental data, your metadata, can be more valuable than the data themselves. This page presents the workflow I use to make my experiments as metadata-proof as possible.
+Information about your experimental data, your metadata, can be more valuable than the data themselves. 
+This page presents the workflow I use to make my experiments as metadata-proof as possible.
 
 What is metadata?
 From my perspective, metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. One of the most frustrating reasons preventing from trials to become real data points is when everything works perfectly, but during analysis you discover that you can't related the data to a specific experimental setting. The single experimental data is there but it has lost the context that gives it meaning. 
