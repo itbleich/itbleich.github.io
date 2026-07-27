@@ -4,12 +4,11 @@ title: Metadata- The Most Important Thing You'll Ever Save
 published: false
 ---
 
-### How to make sure no experimental data point is lost: ###
+## How to make sure no experimental data point is lost ##
 
-## 1. Redundant Metadata Collection - The more, the merrier. ##
-## 2. Embedding - Make your metadata inseparable from your data. ##
+### 1. Redundant Metadata Collection - The more, the merrier. ###
+### 2. Embedding - Make your metadata inseparable from your data. ###
               
-
 
 Information about your experimental data, your metadata, can be more valuable than the data themselves. 
 This page presents the workflow I use to make my experiments as metadata-proof as possible.
