@@ -22,9 +22,15 @@ After dealing with numerous metadata-related issues throughout my research, thes
 
 **Redundancy**
 The more independent ways your metadata are recorded, the better. No logging method is completely failure-proof, so critical information should never rely on a single source. Redundancy not only protects against data loss but also allows cross-checking, and synchronization between different systems (i.e. different devices involved in the same experiment).
+
 For example, in a behavioral experiment involving visual stimulation, I record metadata through every device participating in the experiment. My stimulus script automatically generates log files containing all relevant experimental parameters. At the same time, whenever possible, I position the behavioral camera so that it captures at least part of the stimulus display. In addition, at the beginning of every recording I verbally state the date, time, stimulus, and experimental group. Because this information becomes part of the video itself, it remains attached to the raw data wherever the file is copied, moved, or shared. These simple redundancies have repeatedly saved me from losing valuable experimental context.
-Does this make the system failure-proof? No. But it greatly improves the chances that every experimental trial will remain interpretable and ultimately become analyzable.
+
+Does this make the system failure-proof? 
+
+No. But it greatly improves the chances that every experimental trial will remain interpretable and ultimately become analyzable.
 
 The following principles summarize my approach:
-Every metadata source can fail. They rarely all fail at once.
-There is no such thing as metadata over-registration.
+
+**Every metadata source can fail. They rarely all fail at once.**
+
+**There is no such thing as metadata over-registration.**
