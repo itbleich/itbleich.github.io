@@ -4,10 +4,12 @@ title: Metadata- The Most Important Thing You'll Ever Save
 published: false
 ---
 
-### my approch for making sure no experimental data point is lost: ###
+### How to make sure no experimental data point is lost: ###
+
 ### 1. Redundant Metadata Collection - The more, the merrier. ###
 ### 2. Embedding - Make your metadata inseparable from your data. ###
               
+
 
 Information about your experimental data, your metadata, can be more valuable than the data themselves. 
 This page presents the workflow I use to make my experiments as metadata-proof as possible.
@@ -28,7 +30,7 @@ After dealing with numerous metadata-related issues throughout my research, thes
 
 The more independent ways your metadata are recorded, the better. No logging method is completely failure-proof, so critical information should never rely on a single source. Redundancy not only protects against data loss but also allows cross-checking, and synchronization between different systems (i.e. different devices involved in the same experiment).
 
-For example, in a behavioral experiment involving visual stimulation, I record metadata through every device participating in the experiment. My stimulus script automatically generates log files containing all relevant experimental parameters. At the same time, whenever possible, I position the behavioral camera so that it captures at least part of the stimulus display. In addition, at the beginning of every recording I verbally state the date, time, stimulus, and experimental group. Because this information becomes part of the video itself, it remains attached to the raw data wherever the file is copied, moved, or shared. These simple redundancies have repeatedly saved me from losing valuable experimental context.
+For example, in a behavioral experiment involving visual stimulation, I record metadata through every device participating in the experiment. My stimulus script  generates log files containing all relevant experimental parameters. At the same time, whenever possible, I position the behavioral camera so that it captures at least part of the stimulus display. In addition, at the beginning of every recording I verbally state the date, time, stimulus, and experimental group. Because this information becomes part of the video itself, it remains attached to the raw data wherever the file is copied, moved, or shared. These simple redundancies have repeatedly saved me from losing valuable experimental context.
 
 Does this make the system failure-proof? 
 
@@ -42,7 +44,8 @@ Build your experiments so that every critical piece of metadata exists in multip
 
 The best metadata are the ones you can't lose without losing the data themselves. Whenever possible, metadata should be embedded directly into the experiment instead of being stored alongside it. The harder it is to separate metadata from the data, the more likely both will remain together throughout the lifetime of the dataset.
 
-One example of this principle is a workflow I developed for embedding experimental metadata directly into the photodiode trigger signal of visually driven experiments. Rather than using the trigger channel solely for stimulus synchronization, the same signal also encodes key experimental metadata using pulse-duration modulation and an 8-bit binary representation. As a result, the metadata become an integral part of the recorded data stream and remain permanently attached to every recording.
+One example of this principle is a workflow I developed for embedding experimental metadata directly into the photodiode trigger signal of the experiment. Rather than using the trigger channel solely for stimulus synchronization, the same signal also encodes key experimental metadata using pulse-duration modulation and an 8-bit binary representation. As a result, the metadata become an integral part of the recorded data stream and remain permanently attached to every neurophysiological recording I make.
 
-Because the metadata are embedded in the physiological recording itself, they cannot be accidentally separated from the experiment by misplaced log files, renamed folders, or copied datasets. Even if external documentation is lost, the essential experimental information can still be recovered directly from the recording. While this implementation was developed for visual stimulation using PsychoPy and a photodiode, the underlying principle is much broader: whenever possible, make your metadata inseparable from your data.
+The raw data file effectively becomes its own experiment log. As a result, it can be interpreted and analyzed without relying on separate log files.
+While this implementation was developed for visual stimulation using PsychoPy and a photodiode, the underlying principle is much broader: whenever possible, make your metadata inseparable from your data.
 
