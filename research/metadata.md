@@ -6,9 +6,11 @@ published: false
 
 # How to make sure no experimental data point is lost #
 
-** 1. Redundant Metadata Collection - The more, the merrier. **
 
-** 2. Embedding - Make your metadata inseparable from your data. **
+
+** 1. Embedding - Make your metadata inseparable from your data. **
+
+** 2. Redundant Metadata Collection - The more, the merrier. **
               
 
 Information about your experimental data, your metadata, can be more valuable than the data themselves. 
@@ -18,8 +20,22 @@ This page presents the workflow I use to make my experiments as metadata-proof a
 Metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. One of the most frustrating reasons preventing from trials to become real data points is when everything works perfectly, but during analysis you discover that you can't related the data to a specific experimental setting. The single experimental data is there but it has lost the context that gives it meaning. 
 After dealing with numerous metadata-related issues throughout my research, these are the principles I follow to metadata-proof my experiments.
 
-1.	Redundancy - Record metadata in multiple independent formats and locations. 
-2.	Embedding - Whenever possible, incorporate essential experimental metadata directly into the raw data itself. 
+
+1.	Embedding - Whenever possible, incorporate essential experimental metadata directly into the raw data itself.
+2.	Redundancy - Record metadata in multiple independent formats and locations. 
+
+## Embedding ##
+
+**The best metadata are impossible to get rid of**
+
+The best metadata are always attached to the data themselves. Whenever possible, metadata should be embedded directly into the experiment instead of being stored alongside it. The harder it is to separate metadata from the data, the more likely both will remain together throughout the lifetime of the dataset.
+
+One example of this principle is a workflow I use for embedding experimental metadata directly into neurophysiological recordings through the photodiode trigger signal of the experiment. The trigger signal is saved along with the recording signals and thus, in addition to using the trigger channel  for stimulus synchronization, the same signal also encodes key experimental metadata using pulse-duration modulation and an 8-bit binary representation. As a result, the metadata become an integral part of the recorded data stream and remain permanently attached to every neurophysiological recording I make.
+
+The raw data file effectively becomes its own experiment log. As a result, it can be interpreted and analyzed without relying on separate log files. While this implementation was developed for visual stimulation using PsychoPy and a photodiode, the underlying principle is much broader: whenever possible, make your metadata inseparable from your data.
+
+**Code and implementation:**  
+[View the PsychoPy photodiode metadata encoding repository on GitHub](https://github.com/itbleich/experimental-metadata-trigger-encoding)
 
 
 ## Redundancy ##
@@ -38,19 +54,9 @@ Build your experiments so that every critical piece of metadata exists in multip
 **All metadata fail. They rarely fail all at once.**
 
 
-## Embedding ##
 
-**The best metadata are impossible to get rid of**
 
-The best metadata are the ones you can't lose without losing the data themselves. Whenever possible, metadata should be embedded directly into the experiment instead of being stored alongside it. The harder it is to separate metadata from the data, the more likely both will remain together throughout the lifetime of the dataset.
 
-One example of this principle is a workflow I use for embedding experimental metadata directly into the photodiode trigger signal of the experiment. Rather than using the trigger channel solely for stimulus synchronization, the same signal also encodes key experimental metadata using pulse-duration modulation and an 8-bit binary representation. As a result, the metadata become an integral part of the recorded data stream and remain permanently attached to every neurophysiological recording I make.
-
-The raw data file effectively becomes its own experiment log. As a result, it can be interpreted and analyzed without relying on separate log files.
-While this implementation was developed for visual stimulation using PsychoPy and a photodiode, the underlying principle is much broader: whenever possible, make your metadata inseparable from your data.
-
-**Code and implementation:**  
-[View the PsychoPy photodiode metadata encoding repository on GitHub](https://github.com/itbleich/experimental-metadata-trigger-encoding)
 
 
 
