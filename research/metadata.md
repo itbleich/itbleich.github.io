@@ -36,13 +36,13 @@ The raw data file effectively becomes its own experiment log. As a result, it ca
 
 This is how it looks when the signal is visualized:
 
-<img src="/assets/photodiode_1.jpg.png"
+<img src="/assets/photodiode_1.jpg"
      alt="photodiode trigger and metadata saver 1"
      style="width:500px; max-width:100%; height:auto;">
 
 
 
-<img src="/assets/photodiode_2.jpg.png"
+<img src="/assets/photodiode_2.jpg"
      alt="photodiode trigger and metadata saver 2"
      style="width:500px; max-width:100%; height:auto;">
      
