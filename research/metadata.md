@@ -54,7 +54,9 @@ Build your experiments so that every critical piece of metadata exists in multip
 **All metadata fail. They rarely fail all at once.**
 
 
-![Metadata recursive endless loop](/assets/metadata_final_3_recursive_loop.png){: w="500" } 
+<img src="/assets/metadata_final_3_recursive_loop.png"
+     alt="Metadata recursive endless loop"
+     style="width:500px; max-width:100%; height:auto;">
 
 *There is no such thing as too much metadata*
 
