@@ -34,6 +34,18 @@ One example of this principle is a workflow I use for embedding experimental met
 
 The raw data file effectively becomes its own experiment log. As a result, it can be interpreted and analyzed without relying on separate log files. While this implementation was developed for visual stimulation using PsychoPy and a photodiode, the underlying principle is much broader: whenever possible, make your metadata inseparable from your data.
 
+This is how it looks when the signal is visualized:
+
+<img src="/assets/photodiode_1.jpg.png"
+     alt="photodiode trigger and metadata saver 1"
+     style="width:500px; max-width:100%; height:auto;">
+
+
+
+<img src="/assets/photodiode_2.jpg.png"
+     alt="photodiode trigger and metadata saver 2"
+     style="width:500px; max-width:100%; height:auto;">
+     
 **Code and implementation:**  
 [View the PsychoPy photodiode metadata encoding repository on GitHub](https://github.com/itbleich/experimental-metadata-trigger-encoding)
 
