@@ -73,7 +73,7 @@ Build your experiments so that every critical piece of metadata exists in multip
      alt="Metadata recursive endless loop"
      style="width:500px; max-width:100%; height:auto;">
 
-**There is no such thing as too much metadata**
+**There is no such thing as metadata over-registration.**
 
 
 
