@@ -4,17 +4,15 @@ title: Metadata- The Most Important Thing You'll Ever Save
 permalink: /research/metadata/
 ---
 
-# How to make sure no experimental data point is lost #
-
-
-
-** 1. Embedding - Make your metadata inseparable from your data. **
-
-** 2. Redundant Metadata Collection - The more, the merrier. **
-              
-
 Information about your experimental data, your metadata, can be more valuable than the data themselves. 
 This page presents the workflow I use to make my experiments as metadata-proof as possible.
+
+**The short version:**
+
+**1. Embedding - Make your metadata inseparable from your data.**
+
+**2. Redundant Metadata Collection - The more, the merrier.**
+
 
 ## What is metadata? ##
 Metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. One of the most frustrating reasons preventing from trials to become real data points is when everything works perfectly, but during analysis you discover that you can't related the data to a specific experimental setting. The single experimental data is there but it has lost the context that gives it meaning. 
