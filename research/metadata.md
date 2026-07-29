@@ -76,6 +76,9 @@ Build your experiments so that every critical piece of metadata exists in multip
 **There is no such thing as metadata over-registration.**
 
 
+← [Back to Research & Insights]({{ "/Research_and_Insights/" | relative_url }})
+
+
 
 
 
