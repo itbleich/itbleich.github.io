@@ -57,7 +57,7 @@ This is how it looks when the signal is visualized:
      style="width:500px; max-width:100%; height:auto;">
 
 
-This approach can, of course, be extended to more sophisticated forms of data embedding and adapted to other experimental systems that do not rely on a photodiode.
+This approach can be extended to more sophisticated forms of data embedding and adapted to other experimental systems that do not rely on a photodiode.
 
 **Code and implementation:**  
 [View the PsychoPy photodiode metadata encoding repository on GitHub](https://github.com/itbleich/experimental-metadata-trigger-encoding)
