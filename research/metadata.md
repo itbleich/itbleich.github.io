@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Metadata- The Most Important Thing You'll Ever Save
+permalink: /research/metadata/
 ---
 
 # How to make sure no experimental data point is lost #
