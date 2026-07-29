@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Metadata- The Most Important Thing You'll Ever Save
-published: false
 ---
 
 # How to make sure no experimental data point is lost #
