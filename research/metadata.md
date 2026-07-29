@@ -7,21 +7,24 @@ permalink: /research/metadata/
 Information about your experimental data, your metadata, can be more valuable than the data themselves. 
 This page presents the workflow I use to make my experiments as metadata-proof as possible.
 
-**The short version:**
+<div style="display:flex; align-items:center; gap:30px; flex-wrap:wrap;">
 
-**1. Embedding - Make your metadata inseparable from your data.**
+  <div style="flex:1; min-width:280px;">
+    <p><strong>The short version:</strong></p>
 
-**2. Redundant Metadata Collection - The more, the merrier.**
+    <p><strong>1. Embedding — Make your metadata inseparable from your data.</strong></p>
 
-</td>
+    <p><strong>2. Redundant Metadata Collection — The more, the merrier.</strong></p>
+  </div>
 
-<td style="width:40%; text-align:center; vertical-align:top;">
+  <div style="flex:0 0 320px; text-align:center;">
+    <img src="{{ '/assets/METADATA_PROOFED.png' | relative_url }}"
+         width="320"
+         alt="Metadata proofed"
+         style="max-width:100%; height:auto;">
+  </div>
 
-<img src="{{ '/assets/METADATA_PROOFED.png' | relative_url }}" width="320" alt="Metadata proofed">
-
-</td>
-</tr>
-</table>
+</div>
 
 ## What is metadata? ##
 Metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. One of the most frustrating reasons preventing from trials to become real data points is when everything works perfectly, but during analysis you discover that you can't related the data to a specific experimental setting. The single experimental data is there but it has lost the context that gives it meaning. 
