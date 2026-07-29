@@ -13,6 +13,15 @@ This page presents the workflow I use to make my experiments as metadata-proof a
 
 **2. Redundant Metadata Collection - The more, the merrier.**
 
+</td>
+
+<td style="width:40%; text-align:center; vertical-align:top;">
+
+<img src="{{ '/assets/METADATA_PROOFED.png' | relative_url }}" width="320" alt="Metadata recursive loop">
+
+</td>
+</tr>
+</table>
 
 ## What is metadata? ##
 Metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. One of the most frustrating reasons preventing from trials to become real data points is when everything works perfectly, but during analysis you discover that you can't related the data to a specific experimental setting. The single experimental data is there but it has lost the context that gives it meaning. 
