@@ -17,3 +17,11 @@ One of the most valuable lessons I've learned is that good metadata can determin
 → [Read more]({{ "/research/metadata/" | relative_url }})
 
 ---
+
+## Behavioral Analysis Using a Trackball
+
+A trackball setup is an effective tool for quantifying behavior in tethered animals. Here I share the workflow I use to extract locomotor and steering kinematics from trackball recordings using FicTrac.
+
+This page is currently under construction. Please check back soon...
+
+---
