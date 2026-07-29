@@ -17,7 +17,7 @@ This page presents the workflow I use to make my experiments as metadata-proof a
 
 <td style="width:40%; text-align:center; vertical-align:top;">
 
-<img src="{{ '/assets/METADATA_PROOFED.png' | relative_url }}" width="320" alt="Metadata recursive loop">
+<img src="{{ '/assets/METADATA_PROOFED.png' | relative_url }}" width="320" alt="Metadata proofed">
 
 </td>
 </tr>
