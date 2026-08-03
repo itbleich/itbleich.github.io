@@ -23,8 +23,7 @@ This page presents the workflow I use to make my experiments as metadata-proof a
        alt="Metadata proofed"
        style="max-width:100%;
               height:auto;
-              transform: rotate(8deg);
-              filter: drop-shadow(4px 4px 6px rgba(0,0,0,0.25));">
+              transform: rotate(-15deg);>
 </div>
 
 </div>
