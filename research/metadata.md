@@ -17,15 +17,14 @@ This page presents the workflow I use to make my experiments as metadata-proof a
     <p><strong>2. Redundant Metadata Collection — The more, the merrier.</strong></p>
   </div>
 
-<div style="flex:0 0 320px; text-align:center;">
-<div style="flex:0 0 320px; text-align:center;">
-  <img src="{{ '/assets/Metadata_proofed_no_background.png' | relative_url }}"
-       width="320"
-       alt="Metadata proofed"
-       style="max-width:100%;
-              height:auto;
-              transform: rotate(-15deg);">
-</div>
+  <div style="flex:0 0 320px; text-align:center;">
+    <img src="{{ '/assets/Metadata_proofed_no_background.png' | relative_url }}"
+         width="320"
+         alt="Metadata proofed"
+         style="max-width:100%;
+                height:auto;
+                transform:rotate(-15deg);">
+  </div>
 
 </div>
 
