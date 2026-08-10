@@ -4,19 +4,7 @@ icon: fas fa-user
 order: 1
 ---
 
-<div style="display:flex; justify-content:center; align-items:center; gap:30px; margin:20px 0 30px 0;">
-
-  <img src="/assets/Itay_head_photo.jpeg"
-       alt="Itay Bleichman"
-       width="250"
-       style="border-radius:12px;">
-
-  <img src="/assets/tethered_neurophysiology.png"
-       alt="Second image"
-       width="250"
-       style="border-radius:12px;">
-
-</div>
+<img src="/assets/Itay_head_photo.jpeg" alt="Itay Bleichman" width="250" style="float:right; margin:0 0 20px 30px; border-radius:12px;">"
 
 I am a neuroethology researcher interested in how animals process sensory information to make decisions in complex environments.
 
