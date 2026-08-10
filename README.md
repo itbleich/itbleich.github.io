@@ -1,9 +1,3 @@
-## Copyright
-
-The website uses the Chirpy theme, which is licensed under the MIT License.
-
-All original content on this website—including text, figures, photographs, and illustrations—is © 2026 Itay Bleichman. All rights reserved unless otherwise stated.
-
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
