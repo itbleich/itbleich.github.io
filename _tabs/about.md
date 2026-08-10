@@ -11,7 +11,7 @@ order: 1
        width="250"
        style="border-radius:12px;">
 
-  <img src="/assets/second_image.png"
+  <img src="/assets/tethered_neurophysiology.png"
        alt="Second image"
        width="250"
        style="border-radius:12px;">
