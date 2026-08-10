@@ -4,16 +4,16 @@ icon: fas fa-user
 order: 1
 ---
 
-<div style="float:right; margin:0 0 20px 30px; display:flex; gap:15px;">
+<div style="display:flex; justify-content:center; align-items:center; gap:30px; margin:20px 0 30px 0;">
 
   <img src="/assets/Itay_head_photo.jpeg"
        alt="Itay Bleichman"
-       width="180"
+       width="250"
        style="border-radius:12px;">
 
-  <img src="/assets/tethered_neurophysiology.png"
+  <img src="/assets/second_image.png"
        alt="Second image"
-       width="180"
+       width="250"
        style="border-radius:12px;">
 
 </div>
