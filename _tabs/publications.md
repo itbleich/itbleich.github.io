@@ -10,16 +10,36 @@ order: 2
 [*Visual attention-related processes in desert locusts’ collective-motion-related decision-making.*](https://doi.org/10.1098/rspb.2026.0755)  
 Proceedings of the Royal Society B 
 
+<div style="display:flex; align-items:flex-start; gap:25px; margin-top:20px;">
+
+  <div style="flex:1;">
+
+  <p>
 This study provides evidence that visual decision-making during collective motion involves attention-related processes. By combining automated gaze tracking with controlled visual stimuli and simultaneous behavioral monitoring, we demonstrate that locusts selectively process visual information relevant to collective motion through distinct types of gaze-shift behaviors, supporting previously proposed mechanisms underlying collective-motion-related information-processing.
+  </p>
+
+  </div>
+
+  <div style="flex:0 0 280px; text-align:center;">
+
+    <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif" target="_blank">
+      <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
+           alt="Supplementary Movie S1"
+           style="width:280px; max-width:100%; height:auto; border-radius:8px; cursor:pointer;">
+    </a>
+
+    <div style="font-size:0.85em; color:#666; margin-top:8px;">
+      <strong>Supplementary Movie S1.</strong><br>
+      Click to view full size.
+    </div>
+
+  </div>
+
+</div>
 
 
-<p align="center">
-  <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif">
-    <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
-         alt="Supplementary Movie S1"
-         width="700">
-  </a>
-</p>
+
+
 
 ## 2024
 
