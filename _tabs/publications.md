@@ -20,7 +20,7 @@ order: 2
 
       <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
            alt="Supplementary Movie S1"
-           style="width:180px; border-radius:8px;">
+           style="width:230px; border-radius:8px;"
 
     </a>
 
