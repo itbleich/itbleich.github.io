@@ -10,54 +10,35 @@ order: 2
 [*Visual attention-related processes in desert locusts’ collective-motion-related decision-making.*](https://doi.org/10.1098/rspb.2026.0755)  
 Proceedings of the Royal Society B 
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:25px; margin:20px 0;">
-
-  <div style="flex:1 1 400px;">
-    <p>
-      This study provides evidence that visual decision-making during collective motion involves attention-related processes. By combining automated gaze tracking with controlled visual stimuli and simultaneous behavioral monitoring, we demonstrate that locusts selectively process visual information relevant to collective motion through distinct types of gaze-shift behaviors, supporting previously proposed mechanisms underlying collective-motion-related information processing.
-    </p>
-  </div>
-
-<style>
-.figure {
-  position: relative;
-  display: inline-block;
-}
-
-.caption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0,0,0,0.75);
-  color: white;
-  padding: 8px;
-  font-size: 12px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.figure:hover .caption {
-  opacity: 1;
-}
-</style>
-
-<div class="figure">
-
-<a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif" target="_blank">
-
 <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
-     width="280">
+     alt="Supplementary Movie S1"
+     style="width:180px; border-radius:8px;">
 
-<div class="caption">
-Supplementary Movie S1<br>
-Reproduced from Bleichman et al., Proceedings of the Royal Society B (2026)<br>
-CC BY 4.0
-</div>
+<details style="margin-top:10px;">
+  <summary><strong>Click to expand</strong></summary>
 
-</a>
+  <p>
+      This study provides evidence that visual decision-making during collective motion involves attention-related processes. By combining automated gaze tracking with controlled visual stimuli and simultaneous behavioral monitoring, we demonstrate that locusts selectively process visual information relevant to collective motion through distinct types of gaze-shift behaviors, supporting previously proposed mechanisms underlying collective-motion-related information processing.
+  </p>
 
-</div>
+  <p align="center">
+    <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif" target="_blank">
+      <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
+           style="width:500px; max-width:100%; border-radius:8px;">
+    </a>
+  </p>
+
+  <p style="font-size:0.85em; color:#666;">
+    <strong>Supplementary Movie S1.</strong>
+    Reproduced from the supplementary material of
+    <em>Bleichman, Gal &amp; Ayali</em>,
+    <em>Proceedings of the Royal Society B</em> (2026),
+    licensed under
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
+  </p>
+
+</details>
+
 
 
 
