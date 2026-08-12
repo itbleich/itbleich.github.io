@@ -18,25 +18,46 @@ Proceedings of the Royal Society B
     </p>
   </div>
 
-  <div style="flex:0 1 280px; text-align:center; margin:0 auto;">
+<style>
+.figure {
+  position: relative;
+  display: inline-block;
+}
 
-    <a href="{{ '/assets/attention_related_gaze_change_rspb20260755_si_002.gif' | relative_url }}"
-       target="_blank">
-      <img src="{{ '/assets/attention_related_gaze_change_rspb20260755_si_002.gif' | relative_url }}"
-           alt="Supplementary Movie S1"
-           style="width:280px; max-width:100%; height:auto; border-radius:8px; display:block; margin:auto;">
-    </a>
+.caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.75);
+  color: white;
+  padding: 8px;
+  font-size: 12px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
 
-    <div style="font-size:0.85em; margin-top:8px;">
-      <strong>Supplementary Movie S1.</strong><br>
-      Click to view full size.
-    </div>
+.figure:hover .caption {
+  opacity: 1;
+}
+</style>
 
-  </div>
+<div class="figure">
 
+<a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif" target="_blank">
+
+<img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
+     width="280">
+
+<div class="caption">
+Supplementary Movie S1<br>
+Reproduced from Bleichman et al., Proceedings of the Royal Society B (2026)<br>
+CC BY 4.0
 </div>
 
+</a>
 
+</div>
 
 
 
