@@ -13,7 +13,7 @@ order: 2
 <div style="display:flex; align-items:flex-start; gap:25px; margin:20px 0;">
 
   <!-- GIF -->
-  <div style="flex:0 0 180px;">
+  <div style="flex:0 0 230px;">
 
   <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
      target="_blank">
