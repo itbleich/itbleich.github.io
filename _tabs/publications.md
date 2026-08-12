@@ -10,6 +10,17 @@ order: 2
 [*Visual attention-related processes in desert locusts’ collective-motion-related decision-making.*](https://doi.org/10.1098/rspb.2026.0755)  
 Proceedings of the Royal Society B 
 
+This study provides evidence that visual decision-making during collective motion involves attention-related processes. By combining automated gaze tracking with controlled visual stimuli and simultaneous behavioral monitoring, we demonstrate that locusts selectively process visual information relevant to collective motion through distinct types of gaze-shift behaviors, supporting previously proposed mechanisms underlying collective-motion-related information-processing.
+
+
+<p align="center">
+  <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif">
+    <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
+         alt="Supplementary Movie S1"
+         width="700">
+  </a>
+</p>
+
 ## 2024
 
 **Bleichman, I.**, Shefi, P., Kaminka, G., & Ayali, A.  
