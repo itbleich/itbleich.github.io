@@ -23,7 +23,7 @@ order: 2
 
   <details>
 
-  <summary><strong>Research summary & supplementary movie</strong></summary>
+  <summary><strong>Research summary</strong></summary>
 
   <div style="margin-top:15px;">
 
