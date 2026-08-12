@@ -15,14 +15,14 @@ order: 2
   <!-- GIF -->
   <div style="flex:0 0 180px;">
 
-    <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
-       target="_blank">
-
-      <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
-           alt="Supplementary Movie S1"
-           style="width:230px; border-radius:8px;"
-
-    </a>
+  <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
+     target="_blank">
+  
+    <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
+         alt="Supplementary Movie S1"
+         style="width:230px; border-radius:8px;">
+  
+  </a>
 
   </div>
 
