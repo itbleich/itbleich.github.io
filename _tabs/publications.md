@@ -8,36 +8,54 @@ order: 2
 
 **Bleichman, I.**, Gal, E., & Ayali, A.  
 [*Visual attention-related processes in desert locusts’ collective-motion-related decision-making.*](https://doi.org/10.1098/rspb.2026.0755)  
-Proceedings of the Royal Society B 
+*Proceedings of the Royal Society B* (2026)
 
-<img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
-     alt="Supplementary Movie S1"
-     style="width:180px; border-radius:8px;">
+<div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
 
-<details style="margin-top:10px;">
-  <summary><strong>Click to expand</strong></summary>
+  <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
+     target="_blank">
+    <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
+         alt="Supplementary Movie S1"
+         style="width:180px; border-radius:8px;">
+  </a>
+
+  <div style="flex:1;">
+
+  <details>
+
+  <summary><strong>Research summary & supplementary movie</strong></summary>
+
+  <div style="margin-top:15px;">
 
   <p>
-      This study provides evidence that visual decision-making during collective motion involves attention-related processes. By combining automated gaze tracking with controlled visual stimuli and simultaneous behavioral monitoring, we demonstrate that locusts selectively process visual information relevant to collective motion through distinct types of gaze-shift behaviors, supporting previously proposed mechanisms underlying collective-motion-related information processing.
-  </p>
 
-  <p align="center">
-    <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif" target="_blank">
-      <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
-           style="width:500px; max-width:100%; border-radius:8px;">
-    </a>
+
+  This study provides evidence that visual decision-making during collective motion involves attention-related processes. By combining automated gaze tracking with controlled visual stimuli and simultaneous behavioral monitoring, we demonstrate that locusts selectively process visual information relevant to collective motion through distinct types of gaze-shift behaviors, supporting previously proposed mechanisms underlying collective-motion-related information processing.
+
   </p>
 
   <p style="font-size:0.85em; color:#666;">
-    <strong>Supplementary Movie S1.</strong>
-    Reproduced from the supplementary material of
-    <em>Bleichman, Gal &amp; Ayali</em>,
-    <em>Proceedings of the Royal Society B</em> (2026),
-    licensed under
-    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
+
+  <strong>Supplementary Movie S1.</strong>
+  Click the GIF to view the full-size animation.
+
+  <br><br>
+
+  Reproduced from the supplementary material of
+  <em>Bleichman et al.</em>,
+  <em>Proceedings of the Royal Society B</em> (2026),
+  licensed under
+  <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
+
   </p>
 
-</details>
+  </div>
+
+  </details>
+
+  </div>
+
+</div>
 
 
 
