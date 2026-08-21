@@ -1,0 +1,134 @@
+.page-intro {
+  margin-bottom: 1.5rem;
+  color: var(--text-muted-color);
+}
+
+.hero-figure {
+  margin: 1.25rem auto 1.5rem;
+  text-align: center;
+}
+
+.hero-figure img {
+  width: min(100%, 960px);
+  height: auto;
+  border-radius: 0.7rem;
+}
+
+.hero-message {
+  margin: 0 auto;
+  max-width: 56rem;
+  text-align: center;
+}
+
+.about-profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.about-profile img {
+  width: clamp(170px, 28vw, 250px);
+  height: auto;
+  border-radius: 0.7rem;
+}
+
+.about-profile-content > p:last-child {
+  margin-bottom: 0;
+}
+
+.research-entry {
+  border: 1px solid var(--main-border-color);
+  border-radius: 0.7rem;
+  padding: 1rem 1.1rem;
+  margin: 1rem 0;
+}
+
+.publication-entry {
+  margin: 0.8rem 0 1.6rem;
+}
+
+.publication-entry--featured {
+  border: 1px solid var(--main-border-color);
+  border-radius: 0.7rem;
+  padding: 1rem;
+}
+
+.publication-media {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-start;
+  margin-top: 0.8rem;
+}
+
+.publication-media a {
+  display: inline-block;
+}
+
+.publication-media img {
+  width: min(260px, 100%);
+  height: auto;
+  border-radius: 0.6rem;
+}
+
+.publication-summary details {
+  width: 100%;
+}
+
+.publication-summary summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.publication-note {
+  margin-top: 0.9rem;
+  font-size: 0.9rem;
+  color: var(--text-muted-color);
+}
+
+.figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.figure-row-text {
+  flex: 1 1 280px;
+}
+
+.figure-row-media {
+  flex: 0 1 320px;
+  text-align: center;
+}
+
+.figure-row-media img {
+  width: min(320px, 100%);
+  height: auto;
+}
+
+.metadata-tilted {
+  transform: rotate(-15deg);
+}
+
+.research-figure {
+  margin: 1.2rem 0;
+}
+
+.research-figure img {
+  width: min(560px, 100%);
+  height: auto;
+  border-radius: 0.5rem;
+}
+
+.back-link {
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 720px) {
+  .about-profile {
+    flex-direction: column;
+  }
+}

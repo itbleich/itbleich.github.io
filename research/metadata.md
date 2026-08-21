@@ -7,9 +7,8 @@ permalink: /research/metadata/
 Information about your experimental data, your metadata, can be more valuable than the data themselves. 
 This page presents the workflow I use to make my experiments as metadata-proof as possible.
 
-<div style="display:flex; align-items:center; gap:30px; flex-wrap:wrap;">
-
-  <div style="flex:1; min-width:280px;">
+<div class="figure-row">
+  <div class="figure-row-text">
     <p><strong>The short version:</strong></p>
 
     <p><strong>1. Embedding — Make your metadata inseparable from your data.</strong></p>
@@ -17,18 +16,16 @@ This page presents the workflow I use to make my experiments as metadata-proof a
     <p><strong>2. Redundant Metadata Collection — The more, the merrier.</strong></p>
   </div>
 
-  <div style="flex:0 0 320px; text-align:center;">
-    <img src="{{ '/assets/Metadata_proofed_no_background.png' | relative_url }}"
-         width="320"
-         alt="Metadata proofed"
-         style="max-width:100%;
-                height:auto;
-                transform:rotate(-15deg);">
+  <div class="figure-row-media">
+    <img
+      src="{{ '/assets/Metadata_proofed_no_background.png' | relative_url }}"
+      alt="Illustration emphasizing metadata-proof workflow"
+      loading="lazy"
+      class="metadata-tilted">
   </div>
-
 </div>
 
-## What is metadata? ##
+## What is metadata?
 Metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. One of the most frustrating reasons preventing from trials to become real data points is when everything works perfectly, but during analysis you discover that you can't related the data to a specific experimental setting. The single experimental data is there but it has lost the context that gives it meaning. 
 After dealing with numerous metadata-related issues throughout my research, these are the principles I follow to metadata-proof my experiments.
 
@@ -36,7 +33,7 @@ After dealing with numerous metadata-related issues throughout my research, thes
 1.	Embedding - Whenever possible, incorporate essential experimental metadata directly into the raw data itself.
 2.	Redundancy - Record metadata in multiple independent formats and locations. 
 
-## Embedding ##
+## Embedding
 
 **The best metadata are impossible to get rid of**
 
@@ -48,15 +45,21 @@ The raw data file effectively becomes its own experiment log. As a result, it ca
 
 This is how it looks when the signal is visualized:
 
-<img src="/assets/photodiode_1.jpg"
-     alt="photodiode trigger and metadata saver 1"
-     style="width:500px; max-width:100%; height:auto;">
+<figure class="research-figure">
+  <img
+    src="/assets/photodiode_1.jpg"
+    alt="Photodiode trigger signal example with embedded metadata encoding"
+    loading="lazy">
+</figure>
 
 
 
-<img src="/assets/photodiode_2.jpg"
-     alt="photodiode trigger and metadata saver 2"
-     style="width:500px; max-width:100%; height:auto;">
+<figure class="research-figure">
+  <img
+    src="/assets/photodiode_2.jpg"
+    alt="Second visualization of photodiode trigger-based metadata encoding"
+    loading="lazy">
+</figure>
 
 
 This approach can be extended to more sophisticated forms of data embedding and adapted to other experimental systems that do not rely on a photodiode.
@@ -65,7 +68,7 @@ This approach can be extended to more sophisticated forms of data embedding and 
 [View the PsychoPy photodiode metadata encoding repository on GitHub](https://github.com/itbleich/experimental-metadata-trigger-encoding)
 
 
-## Redundancy ##
+## Redundancy
 
 **There is no such thing as metadata over-registration.**
 
@@ -81,17 +84,17 @@ Build your experiments so that every critical piece of metadata exists in multip
 **All metadata fail. They rarely fail all at once.**
 
 
-<img src="/assets/metadata_final_3_recursive_loop.png"
-     alt="Metadata recursive endless loop"
-     style="width:500px; max-width:100%; height:auto;">
+<figure class="research-figure">
+  <img
+    src="/assets/metadata_final_3_recursive_loop.png"
+    alt="Diagram illustrating recursive redundancy in metadata collection"
+    loading="lazy">
+</figure>
 
 **There is no such thing as metadata over-registration.**
 
 
-← [Back to Research & Insights]({{ "/Research_and_Insights/" | relative_url }})
-
-
-
+<p class="back-link">← <a href="{{ '/Research_and_Insights/' | relative_url }}">Back to Research &amp; Insights</a></p>
 
 
 
