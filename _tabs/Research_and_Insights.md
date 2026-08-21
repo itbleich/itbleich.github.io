@@ -23,7 +23,7 @@ order: 4
 <article class="research-entry">
   <h2>Behavioral Analysis Using a Trackball</h2>
   <p>A trackball setup is an effective tool for quantifying behavior in tethered animals. Here I present my approach for extracting locomotor and steering kinematics from trackball recordings using FicTrac.</p>
-  <p>This page is currently under construction. Please check back soon.</p>
+  <p><a href="{{ '/research/trackball/' | relative_url }}">Read article</a></p>
 </article>
 
 ---
