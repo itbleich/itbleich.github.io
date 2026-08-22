@@ -24,7 +24,6 @@ order: 2
   
   </a>
   <p style="font-size:0.75em; color:#666; margin-top:8px; line-height:1.3; text-align:left;">
-    <strong>Supplementary Movie S1.</strong><br>
     Reproduced from the supplementary material of
     <em>Bleichman et al.</em>,
     <em>Proceedings of the Royal Society B</em> (2026),
@@ -38,9 +37,6 @@ order: 2
 <div style="flex:1;">
 
   <p style="margin-top:0;">
-    <strong>Main findings</strong>
-  </p>
-
   <p>
     This study provides empirical evidence that visual decision-making during collective motion involves attention-related processes. We demonstrate that locusts selectively process visual information through distinct types of gaze-shift behaviors.
   </p>
@@ -87,9 +83,6 @@ PNAS Nexus
 <div style="flex:1;">
 
   <p style="margin-top:0;">
-    <strong>Main findings</strong>
-  </p>
-
   <p>
 In this study, we investigated the visual processing strategies used by locusts during collective-motion-related decision-making. In addition, based on our behavioral findings, we propose a cognitive mechanism by which an agent engaged in collective motion can infer the relative heading of its neighbors.
   </p>
