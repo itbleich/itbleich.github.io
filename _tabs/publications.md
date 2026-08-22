@@ -34,27 +34,18 @@ order: 2
   
   </div>
 
-  <!-- Summary -->
-  <div style="flex:1;">
+<!-- Summary -->
+<div style="flex:1;">
 
-  <details>
-  
-    <summary style="">
-      Main findings
-    </summary>
-  
-    <div style="margin-top:15px;">
-          <p>
+  <p style="margin-top:0;">
+    <strong>Main findings</strong>
+  </p>
 
-        This study provides empirical evidence that visual decision-making during collective motion involves attention-related processes. We demonstrate that locusts selectively process visual information through distinct types of gaze-shift behaviors.
-        </p>
+  <p>
+    This study provides empirical evidence that visual decision-making during collective motion involves attention-related processes. We demonstrate that locusts selectively process visual information through distinct types of gaze-shift behaviors.
+  </p>
 
-
-      </div>
-
-    </details>
-
-  </div>
+</div>
 
 </div>
 
