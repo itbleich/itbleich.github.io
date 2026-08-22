@@ -101,10 +101,10 @@ Biology Letters
   <!-- Figure -->
   <div style="flex:0 0 230px;">
 
-    <a href="/assets/rsbl_2023_0468_figure_2.jpg"
+    <a href="/assets/rsbl_2023_0468_adapted_figure.jpg"
        target="_blank">
 
-      <img src="/assets/rsbl_2023_0468_figure_2.jpg"
+      <img src="/assets/rsbl_2023_0468_adapted_figure.jpg"
            alt="Figure 1"
            style="width:230px; border-radius:8px;">
 
