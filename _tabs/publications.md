@@ -57,10 +57,10 @@ order: 2
   <!-- Figure -->
   <div style="flex:0 0 230px;">
 
-    <a href="/assets/PNAS_Nexus_pgae537_figure_1.jpg"
+    <a href="/assets/PNAS_ Nexus_pgae537_figure_1.jpg"
        target="_blank">
 
-      <img src="/assets/PNAS_Nexus_pgae537_figure_1.jpg"
+      <img src="/assets/PNAS_ Nexus_pgae537_figure_1.jpg"
            alt="Figure 1"
            style="width:230px; border-radius:8px;">
 
