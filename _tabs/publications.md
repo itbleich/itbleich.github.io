@@ -161,7 +161,7 @@ Proceedings of the Royal Society B
     <p style="font-size:0.75em; color:#666; margin-top:8px; line-height:1.3;">
       Figure reproduced from
       <a href="https://doi.org/10.1098/rspb.2022.1862" target="_blank">
-        <em>Aidan et al., Biology Letters</em> (2023)
+        <em>Bleichman et al., Proceedings of the Royal Society B</em> (2023)
       </a>,
       licensed under
       <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
