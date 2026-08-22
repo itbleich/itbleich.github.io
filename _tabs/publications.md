@@ -144,4 +144,40 @@ Antioxidants
 **Bleichman, I.**, Yadav, P., & Ayali, A.  
 [*Visual processing and collective motion-related decision-making in desert locusts.*](https://doi.org/10.1098/rspb.2022.1862)  
 Proceedings of the Royal Society B 
+<div style="display:flex; align-items:flex-start; gap:25px; margin:20px 0;">
 
+  <!-- Figure -->
+  <div style="flex:0 0 230px;">
+
+    <a href="/assets/rspb_2022_1862_figure_6.jpg"
+       target="_blank">
+
+      <img src="/assets/rspb_2022_1862_figure_6.jpg"
+           alt="Figure 1"
+           style="width:230px; border-radius:8px;">
+
+    </a>
+
+    <p style="font-size:0.75em; color:#666; margin-top:8px; line-height:1.3;">
+      Figure reproduced from
+      <a href="https://doi.org/10.1098/rspb.2022.1862" target="_blank">
+        <em>Aidan et al., Biology Letters</em> (2023)
+      </a>,
+      licensed under
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
+        CC BY-NC 4.0
+      </a>.
+    </p>
+
+  </div>
+
+  <!-- Summary -->
+  <div style="flex:1;">
+
+    <p style="margin-top:0;">
+    Here, we provide evidence that locusts use filtering and discrimination when presented with multiple simultaneous visual stimuli. We show that specific visual features, swarming-related visual cues, influence collective-motion-related decision-making in a threshold-dependent manner. We also provide neurophysiological evidence supporting our behavioral findings.
+    </p>
+
+  </div>
+
+</div>
