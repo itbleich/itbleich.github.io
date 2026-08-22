@@ -90,11 +90,50 @@ order: 2
 
 </div>
 
-</div>
+
 Aidan, Y.\*, **Bleichman, I.**\*, & Ayali, A.  
 [*Pausing to swarm: locust intermittent motion is instrumental for swarming-related visual processing.*](https://doi.org/10.1098/rsbl.2023.0468)  
 Biology Letters 
 \*Equal contribution
+
+<div style="display:flex; align-items:flex-start; gap:25px; margin:20px 0;">
+
+  <!-- Figure -->
+  <div style="flex:0 0 230px;">
+
+    <a href="/assets/rsbl_2023_0468_figure_2.jpg"
+       target="_blank">
+
+      <img src="/assets/rsbl_2023_0468_figure_2.jpg"
+           alt="Figure 1"
+           style="width:230px; border-radius:8px;">
+
+    </a>
+
+    <p style="font-size:0.75em; color:#666; margin-top:8px; line-height:1.3;">
+      Figure reproduced from
+      <a href="https://doi.org/10.1098/rsbl.2023.0468" target="_blank">
+        <em>Aidan et al., Biology Letters</em> (2023)
+      </a>,
+      licensed under
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
+        CC BY-NC 4.0
+      </a>.
+    </p>
+
+  </div>
+
+  <!-- Summary -->
+  <div style="flex:1;">
+
+    <p style="margin-top:0;">
+    Intermittent motion is prevalent in animal locomotion. In this study, we explored its role in visually based collective-motion-related decision-making. Using semi-closed-loop conditions, we demonstrate that pauses are essential for collective-motion-related information processing, particularly for directional decisions, supporting previous indications of the dominant role of pauses in maintaining group cohesion.
+    </p>
+
+  </div>
+
+</div>
+
 
 **Bleichman, I.**, Hiram-Bab, S., Gabet, Y., & Savion, N.  
 [*S-Allylmercapto-N-Acetylcysteine (ASSNAC) Attenuates Osteoporosis in Ovariectomized (OVX) Mice.*](https://doi.org/10.3390/antiox13040474)  
