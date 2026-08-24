@@ -4,41 +4,100 @@ icon: fas fa-book
 order: 2
 ---
 
+<style>
+.publication-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+  margin: 20px 0 30px 0;
+}
+
+.publication-figure {
+  flex: 0 0 230px;
+}
+
+.publication-figure img {
+  width: 230px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+.publication-caption {
+  font-size: 0.75em;
+  color: #666;
+  margin-top: 8px;
+  line-height: 1.3;
+  text-align: left;
+}
+
+.publication-description {
+  flex: 1;
+}
+
+.publication-description p {
+  margin-top: 0;
+}
+
+/* Mobile layout */
+@media (max-width: 600px) {
+  .publication-content {
+    display: block;
+    margin-top: 15px;
+  }
+
+  .publication-figure {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .publication-figure img {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .publication-description {
+    width: 100%;
+  }
+}
+</style>
+
+
 ## 2026
 
 **Bleichman, I.**, Gal, E., & Ayali, A.  
 [*Visual attention-related processes in desert locusts’ collective-motion-related decision-making.*](https://doi.org/10.1098/rspb.2026.0755)  
 *Proceedings of the Royal Society B* (2026)
 
-<div style="display:flex; align-items:flex-start; gap:25px; margin:20px 0;">
+<div class="publication-content">
 
-  <!-- GIF -->
-  <div style="flex:0 0 230px;">
+  <div class="publication-figure">
 
     <a href="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
        target="_blank">
 
       <img src="/assets/attention_related_gaze_change_rspb20260755_si_002.gif"
-           alt="Supplementary Movie S1"
-           style="width:230px; border-radius:8px;">
+           alt="Supplementary movie showing gaze-shift behavior in locusts">
 
     </a>
 
-    <p style="font-size:0.75em; color:#666; margin-top:8px; line-height:1.3; text-align:left;">
+    <p class="publication-caption">
       Reproduced from the supplementary material of
       <em>Bleichman et al.</em>,
       <em>Proceedings of the Royal Society B</em> (2026),
       licensed under
-      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+        CC BY 4.0
+      </a>.
     </p>
 
   </div>
 
-  <!-- Summary -->
-  <div style="flex:1;">
+  <div class="publication-description">
 
-    <p style="margin-top:0;">
-    During collective-motion-related decision-making, locusts selectively process visual information through distinct gaze-shift behaviors.
+    <p>
+      During collective-motion-related decision-making, locusts selectively process visual information through distinct gaze-shift behaviors.
     </p>
 
   </div>
@@ -52,21 +111,19 @@ order: 2
 [*The visual stimuli attributes instrumental for collective-motion-related decision-making in locusts.*](https://doi.org/10.1093/pnasnexus/pgae537)  
 *PNAS Nexus* (2024)
 
-<div style="display:flex; align-items:flex-start; gap:25px; margin:20px 0;">
+<div class="publication-content">
 
-  <!-- Figure -->
-  <div style="flex:0 0 230px;">
+  <div class="publication-figure">
 
     <a href="/assets/PNAS_ Nexus_pgae537_figure_1.jpg"
        target="_blank">
 
       <img src="/assets/PNAS_ Nexus_pgae537_figure_1.jpg"
-           alt="Figure 1"
-           style="width:230px; border-radius:8px;">
+           alt="Figure illustrating visual stimuli used in collective-motion experiments">
 
     </a>
 
-    <p style="font-size:0.75em; color:#666; margin-top:8px; line-height:1.3;">
+    <p class="publication-caption">
       Figure reproduced from
       <a href="https://doi.org/10.1093/pnasnexus/pgae537" target="_blank">
         <em>Bleichman et al., PNAS Nexus</em> (2024)
@@ -79,10 +136,9 @@ order: 2
 
   </div>
 
-  <!-- Summary -->
-  <div style="flex:1;">
+  <div class="publication-description">
 
-    <p style="margin-top:0;">
+    <p>
       Based on behavioral findings, we propose a cognitive mechanism by which an agent engaged in collective motion can infer the relative heading of its neighbors.
     </p>
 
@@ -93,27 +149,25 @@ order: 2
 
 Aidan, Y.\*, **Bleichman, I.**\*, & Ayali, A.  
 [*Pausing to swarm: locust intermittent motion is instrumental for swarming-related visual processing.*](https://doi.org/10.1098/rsbl.2023.0468)  
-Biology Letters 
+*Biology Letters* (2024)  
 \*Equal contribution
 
-<div style="display:flex; align-items:flex-start; gap:25px; margin:20px 0;">
+<div class="publication-content">
 
-  <!-- Figure -->
-  <div style="flex:0 0 230px;">
+  <div class="publication-figure">
 
     <a href="/assets/rsbl_2023_0468_adapted_figure.jpg"
        target="_blank">
 
       <img src="/assets/rsbl_2023_0468_adapted_figure.jpg"
-           alt="Figure 1"
-           style="width:230px; border-radius:8px;">
+           alt="Figure illustrating intermittent pause-and-go locomotion in locusts">
 
     </a>
 
-    <p style="font-size:0.75em; color:#666; margin-top:8px; line-height:1.3;">
+    <p class="publication-caption">
       Figure reproduced from
       <a href="https://doi.org/10.1098/rsbl.2023.0468" target="_blank">
-        <em>Aidan et al., Biology Letters</em> (2023)
+        <em>Aidan et al., Biology Letters</em> (2024)
       </a>,
       licensed under
       <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
@@ -123,11 +177,10 @@ Biology Letters
 
   </div>
 
-  <!-- Summary -->
-  <div style="flex:1;">
+  <div class="publication-description">
 
-    <p style="margin-top:0;">
-    Intermittent, pause-and-go motion is crucial for collective-motion-related directional decisions in locusts.
+    <p>
+      Intermittent, pause-and-go motion is crucial for collective-motion-related directional decisions in locusts.
     </p>
 
   </div>
@@ -137,28 +190,28 @@ Biology Letters
 
 **Bleichman, I.**, Hiram-Bab, S., Gabet, Y., & Savion, N.  
 [*S-Allylmercapto-N-Acetylcysteine (ASSNAC) Attenuates Osteoporosis in Ovariectomized (OVX) Mice.*](https://doi.org/10.3390/antiox13040474)  
-Antioxidants 
+*Antioxidants* (2024)
+
 
 ## 2023
 
 **Bleichman, I.**, Yadav, P., & Ayali, A.  
 [*Visual processing and collective motion-related decision-making in desert locusts.*](https://doi.org/10.1098/rspb.2022.1862)  
-Proceedings of the Royal Society B 
-<div style="display:flex; align-items:flex-start; gap:25px; margin:20px 0;">
+*Proceedings of the Royal Society B* (2023)
 
-  <!-- Figure -->
-  <div style="flex:0 0 230px;">
+<div class="publication-content">
+
+  <div class="publication-figure">
 
     <a href="/assets/rspb_2022_1862_figure_6.jpg"
        target="_blank">
 
       <img src="/assets/rspb_2022_1862_figure_6.jpg"
-           alt="Figure 1"
-           style="width:230px; border-radius:8px;">
+           alt="Figure illustrating visual processing during collective-motion-related decision-making">
 
     </a>
 
-    <p style="font-size:0.75em; color:#666; margin-top:8px; line-height:1.3;">
+    <p class="publication-caption">
       Figure reproduced from
       <a href="https://doi.org/10.1098/rspb.2022.1862" target="_blank">
         <em>Bleichman et al., Proceedings of the Royal Society B</em> (2023)
@@ -171,11 +224,10 @@ Proceedings of the Royal Society B
 
   </div>
 
-  <!-- Summary -->
-  <div style="flex:1;">
+  <div class="publication-description">
 
-    <p style="margin-top:0;">
-    During visual based collective-motion related decision-making, locusts use filtering and discrimination in order to process with multiple simultaneous visual stimuli. 
+    <p>
+      During visually based collective-motion-related decision-making, locusts use filtering and discrimination to process multiple simultaneous visual stimuli.
     </p>
 
   </div>
