@@ -38,7 +38,7 @@ order: 2
   <div style="flex:1;">
 
     <p style="margin-top:0;">
-      This study provides empirical evidence that visual decision-making during collective motion involves attention-related processes. We demonstrate that locusts selectively process visual information through distinct types of gaze-shift behaviors.
+    During collective-motion-related decision-making, locusts selectively process visual information through distinct gaze-shift behaviors.
     </p>
 
   </div>
@@ -83,7 +83,7 @@ order: 2
   <div style="flex:1;">
 
     <p style="margin-top:0;">
-      In this study, we investigated the visual processing strategies used by locusts during collective-motion-related decision-making. In addition, based on our behavioral findings, we propose a cognitive mechanism by which an agent engaged in collective motion can infer the relative heading of its neighbors.
+      Based on behavioral findings, we propose a cognitive mechanism by which an agent engaged in collective motion can infer the relative heading of its neighbors.
     </p>
 
   </div>
@@ -127,7 +127,7 @@ Biology Letters
   <div style="flex:1;">
 
     <p style="margin-top:0;">
-    Intermittent motion is prevalent in animal locomotion. In this study, we explored its role in visually based collective-motion-related decision-making. Using semi-closed-loop conditions, we demonstrate that pauses are essential for collective-motion-related information processing, particularly for directional decisions, supporting previous indications of the dominant role of pauses in maintaining group cohesion.
+    Intermittent, pause-and-go motion is crucial for collective-motion-related directional decisions in locusts.
     </p>
 
   </div>
@@ -175,7 +175,7 @@ Proceedings of the Royal Society B
   <div style="flex:1;">
 
     <p style="margin-top:0;">
-    Here, we provide evidence that locusts use filtering and discrimination when presented with multiple simultaneous visual stimuli. We show that specific visual features, swarming-related visual cues, influence collective-motion-related decision-making in a threshold-dependent manner. We also provide neurophysiological evidence supporting our behavioral findings.
+    During visual based collective-motion related decision-making, locusts use filtering and discrimination in order to process with multiple simultaneous visual stimuli. 
     </p>
 
   </div>
