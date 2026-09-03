@@ -189,8 +189,8 @@ Aidan, Y.\*, **Bleichman, I.**\*, & Ayali, A.
 
 
 **Bleichman, I.**, Hiram-Bab, S., Gabet, Y., & Savion, N.  
-[*S-Allylmercapto-N-Acetylcysteine (ASSNAC) Attenuates Osteoporosis in Ovariectomized (OVX) Mice.*](https://doi.org/10.3390/antiox13040474){:target="_blank"}  
-*Antioxidants* (2024)
+<a href="https://doi.org/10.3390/antiox13040474" target="_blank"><em>S-Allylmercapto-N-Acetylcysteine (ASSNAC) Attenuates Osteoporosis in Ovariectomized (OVX) Mice.</em></a>  
+<em>Antioxidants</em> (2024)
 
 <div class="publication-content">
 
@@ -210,8 +210,8 @@ Aidan, Y.\*, **Bleichman, I.**\*, & Ayali, A.
         <em>Bleichman et al., Antioxidants</em> (2024)
       </a>,
       licensed under
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
-        CC BY-NC 4.0
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+        CC BY 4.0
       </a>.
     </p>
 
@@ -220,16 +220,19 @@ Aidan, Y.\*, **Bleichman, I.**\*, & Ayali, A.
   <div class="publication-description">
 
     <p>
-      During visually based collective-motion-related decision-making, locusts use filtering and discrimination to process multiple simultaneous visual stimuli.
+      YOUR ANTIOXIDANTS DESCRIPTION HERE
     </p>
 
   </div>
 
+</div>
+
+
 ## 2023
 
 **Bleichman, I.**, Yadav, P., & Ayali, A.  
-[*Visual processing and collective motion-related decision-making in desert locusts.*](https://doi.org/10.1098/rspb.2022.1862){:target="_blank"}  
-*Proceedings of the Royal Society B* (2023)
+<a href="https://doi.org/10.1098/rspb.2022.1862" target="_blank"><em>Visual processing and collective motion-related decision-making in desert locusts.</em></a>  
+<em>Proceedings of the Royal Society B</em> (2023)
 
 <div class="publication-content">
 
