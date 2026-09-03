@@ -220,7 +220,7 @@ Aidan, Y.\*, **Bleichman, I.**\*, & Ayali, A.
   <div class="publication-description">
 
     <p>
-      YOUR ANTIOXIDANTS DESCRIPTION HERE
+      ASSNAC, an Nrf2 activator and cysteine supplier, demonstrates antioxidant protective effects in a model of postmenopausal osteoporosis. 
     </p>
 
   </div>
