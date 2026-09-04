@@ -79,10 +79,7 @@ C. At the beginning of every recording, I verbally state the date, time, stimulu
 
 These simple redundancies have repeatedly saved me from losing valuable experimental context.
 
-Does this make the system failure-proof?
-
-No. But it greatly improves the chances that every experimental trial will remain interpretable and, ultimately, analyzable.
-
+Does this make the system failure-proof? No. But it greatly improves the chances that every experimental trial will remain interpretable and, ultimately, analyzable.
 Build your experiments so that every critical piece of metadata exists in multiple independent forms.
 
 **All metadata fail. They rarely fail all at once.**
