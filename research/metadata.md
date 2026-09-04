@@ -73,8 +73,8 @@ The more independent ways your metadata are recorded, the better. No logging met
 
 For example, this is my workflow for behavioral experiments involving visual stimuli:
 
-A. My stimulus script generates log files containing all relevant experimental parameters.
-B. The behavioral camera is positioned so that it captures at least part of the stimulus display.
+A. My stimulus script generates log files containing all relevant experimental parameters.<br>
+B. The behavioral camera is positioned so that it captures at least part of the stimulus display.<br>
 C. At the beginning of every recording, I verbally state the date, time, stimulus, and experimental group, embedding this information directly in the video itself.
 
 These simple redundancies have repeatedly saved me from losing valuable experimental context.
