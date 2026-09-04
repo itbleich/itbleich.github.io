@@ -29,9 +29,10 @@ This page presents the workflow I use to make my experiments as metadata-proof a
 </div>
 
 ## What is metadata? ##
-Metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. One of the most frustrating reasons preventing from trials to become real data points is when everything works perfectly, but during analysis you discover that you can't related the data to a specific experimental setting. The single experimental data is there but it has lost the context that gives it meaning. 
-After dealing with numerous metadata-related issues throughout my research, these are the principles I follow to metadata-proof my experiments.
 
+Metadata are everything required to transform a single experimental trial into a meaningful data point in a figure or statistical analysis. When metadata are lost, corrupted, or lose their meaning, the data may ultimately lose their value altogether.
+
+After dealing with numerous metadata-related issues throughout my research, I developed a set of principles that I now follow to make my experiments as metadata-proof as possible.
 
 1.	Embedding - Whenever possible, incorporate essential experimental metadata directly into the raw data itself.
 2.	Redundancy - Record metadata in multiple independent formats and locations. 
@@ -40,12 +41,11 @@ After dealing with numerous metadata-related issues throughout my research, thes
 
 **The best metadata are impossible to get rid of**
 
-The best metadata are always attached to the data themselves. Whenever possible, metadata should be embedded directly into the experiment instead of being stored alongside it. The harder it is to separate metadata from the data, the more likely both will remain together throughout the lifetime of the dataset.
+Whenever possible, metadata should be embedded directly into the experiment rather than stored alongside it. The harder it is to separate the metadata from the data, the more likely they are to remain together throughout the lifetime of the dataset.
 
-One example of this principle is a workflow I use for embedding experimental metadata directly into neurophysiological recordings through the photodiode trigger signal of the experiment. The trigger signal is saved along with the recording signals and thus, in addition to using the trigger channel  for stimulus synchronization, the same signal also encodes key experimental metadata using pulse-duration modulation and an 8-bit binary representation. As a result, the metadata become an integral part of the recorded data stream and remain permanently attached to every neurophysiological recording I make.
+One example of this principle is a workflow I use to embed experimental metadata directly into neurophysiological recordings through the experiment’s photodiode trigger signal. The trigger signal is recorded alongside the neurophysiological signals and serves two purposes: in addition to providing stimulus synchronization, it encodes key experimental metadata using pulse-duration modulation and an 8-bit binary representation. In this way, the raw data file effectively becomes its own experiment log, reducing the risk of losing the information needed to interpret it.
 
-The raw data file effectively becomes its own experiment log. As a result, it can be interpreted and analyzed without relying on separate log files. While this implementation was developed for visual stimulation using PsychoPy and a photodiode, the underlying principle is much broader: whenever possible, make your metadata inseparable from your data.
-
+While this implementation was developed for visual stimulation using PsychoPy and a photodiode, the underlying principle is much broader: whenever possible, make your metadata inseparable from your data.
 This is how it looks when the signal is visualized:
 
 <img src="/assets/photodiode_1.jpg"
@@ -69,13 +69,20 @@ This approach can be extended to more sophisticated forms of data embedding and 
 
 **There is no such thing as metadata over-registration.**
 
-The more independent ways your metadata are recorded, the better. No logging method is completely failure-proof, so critical information should never rely on a single source. Redundancy not only protects against data loss but also allows cross-checking, and synchronization between different systems (i.e. different devices involved in the same experiment).
+The more independent ways your metadata are recorded, the better. No logging method is completely failure-proof, so critical information should never rely on a single source. Redundancy not only protects against data loss but also enables cross-checking and synchronization between different systems (i.e., different devices involved in the same experiment).
 
-For example, in a behavioral experiment involving visual stimulation, I record metadata through every device participating in the experiment. My stimulus script  generates log files containing all relevant experimental parameters. At the same time, whenever possible, I position the behavioral camera so that it captures at least part of the stimulus display. In addition, at the beginning of every recording I verbally state the date, time, stimulus, and experimental group. Because this information becomes part of the video itself, it remains attached to the raw data wherever the file is copied, moved, or shared. These simple redundancies have repeatedly saved me from losing valuable experimental context.
+For example, this is my workflow for behavioral experiments involving visual stimuli:
 
-Does this make the system failure-proof? 
+A. My stimulus script generates log files containing all relevant experimental parameters.
+B. The behavioral camera is positioned so that it captures at least part of the stimulus display.
+C. At the beginning of every recording, I verbally state the date, time, stimulus, and experimental group, embedding this information directly in the video itself.
 
-No. But it greatly improves the chances that every experimental trial will remain interpretable and ultimately become analyzable.
+These simple redundancies have repeatedly saved me from losing valuable experimental context.
+
+Does this make the system failure-proof?
+
+No. But it greatly improves the chances that every experimental trial will remain interpretable and, ultimately, analyzable.
+
 Build your experiments so that every critical piece of metadata exists in multiple independent forms.
 
 **All metadata fail. They rarely fail all at once.**
